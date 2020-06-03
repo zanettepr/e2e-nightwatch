@@ -1,0 +1,9 @@
+/node_modules
+
+**/*.log
+
+/report
+
+/screenshots
+
+/package-lock.json
