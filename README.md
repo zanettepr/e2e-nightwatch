@@ -1,4 +1,4 @@
- ![images](https://www.swtestacademy.com/wp-content/uploads/2019/08/nightwatch.js-logo-2.png)
+ ![images](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuakgY_Yooey2BrMqD34E6_ptK9EedY9TGN3CevP6sofrSybM7&usqp=CAUg)
 # Respositório de Testes Automtizados com Nightwatchjs e Cucumber
 
 Este repositório tem como objetivo a automação de teste de uma sistema que utilizei em dos cursos que fiz na Udemy. Segue abaixo o link:
