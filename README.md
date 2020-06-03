@@ -12,7 +12,7 @@ Este repositório tem como objetivo a automação de teste de uma sistema que ut
   - Cadastrar conta com sucesso
   - Excluir conta com sucesso
   
- ### Para executar este projeto, você precisará das seguintes ferramentas:
+ ### Para este projeto, você precisará das seguintes ferramentas:
 ```bash
 Git
 Node (minha versão atual é v12.16.1)
@@ -25,7 +25,7 @@ VS Code
 $~ npm install
 ```
 
-### Para executar testes, use o comando abaixo configurado no arquivo package.json:
+### Para executar os testes, use o comando abaixo configurado no arquivo package.json:
 ```terminal
 $~ npm run e2e-test
 ```
