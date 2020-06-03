@@ -30,8 +30,7 @@ $~ npm install
 $~ npm run e2e-test
 ```
 
-
 Paulo Zanette
-Quality Assurance Engineer
-Linkedin: https://www.linkedin.com/in/paulo-zanette-ctfl-a19b36b6/
-E-mail: paulozanette2020@gmail.com
+- Quality Assurance Engineer
+- Linkedin: https://www.linkedin.com/in/paulo-zanette-ctfl-a19b36b6/
+- E-mail: paulozanette2020@gmail.com
