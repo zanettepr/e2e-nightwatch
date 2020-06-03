@@ -4,7 +4,7 @@
   "description": "Automação Web com Nightwatch",
   "main": "index.js",
   "scripts": {
-    "e2e-test": "echo \"Error: no test specified\" && exit 1"
+    "e2e-test": "cucumber-js --require cucumber.conf.js --require steps-definitions --format node_modules/cucumber-pretty"
   },
   "keywords": [],
   "author": "Paulo Zanette",
