@@ -1,0 +1,22 @@
+{
+  "name": "e2e-nightwatch",
+  "version": "1.0.0",
+  "description": "Automação Web com Nightwatch",
+  "main": "index.js",
+  "scripts": {
+    "e2e-test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Paulo Zanette",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-add-module-exports": "^1.0.2",
+    "babel-preset-es2015": "^6.24.1",
+    "chromedriver": "^83.0.0",
+    "cucumber": "^6.0.5",
+    "cucumber-pretty": "^6.0.0",
+    "nightwatch": "^1.3.6",
+    "nightwatch-api": "^3.0.1"
+  }
+}
