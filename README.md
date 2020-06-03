@@ -20,7 +20,7 @@ NPM (my current version is v6.13.4)
 VS Code
 ```
 
-### Para instalar o projeto, basta cloná-lo e executar os comandos abaixo:
+### Para instalar o projeto, basta cloná-lo e executar o comando abaixo:
 ```terminal
 $~ npm install
 ```
