@@ -1,5 +1,8 @@
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuakgY_Yooey2BrMqD34E6_ptK9EedY9TGN3CevP6sofrSybM7&usqp=CAUg" class="center">
- ![images](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuakgY_Yooey2BrMqD34E6_ptK9EedY9TGN3CevP6sofrSybM7&usqp=CAUg)
+<div align="center">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuakgY_Yooey2BrMqD34E6_ptK9EedY9TGN3CevP6sofrSybM7&usqp=CAUg" >
+ <p>Perfectly balanced</p>
+</div>
+
 # Respositório de Testes Automtizados com Nightwatchjs e Cucumber
 
 Este repositório tem como objetivo a automação de teste de uma sistema que utilizei em dos cursos que fiz na Udemy. Segue abaixo o link:
